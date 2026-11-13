@@ -12,7 +12,7 @@
 
 Откройте [последний выпуск](https://github.com/CrabcoreMaster/scorary-releases/releases/latest).
 Для первой установки на Mac с Apple Silicon используйте `.dmg` и перенесите
-Scorary в папку «Программы». На Windows x64 запустите `GameLibrary-Setup-0.18.1.exe`.
+Scorary в папку «Программы». На Windows x64 запустите `GameLibrary-Setup-0.18.2.exe`.
 Для обновления установленной версии откройте
 **Настройки → О приложении → Проверить**, затем **«Обновить и перезапустить»**.
 Git и аккаунт GitHub для скачивания не требуются.
